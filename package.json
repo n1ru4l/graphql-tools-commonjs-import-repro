@@ -1,0 +1,22 @@
+{
+  "name": "tools-repro",
+  "version": "1.0.0",
+  "author": "Laurin Quast <laurinquast@googlemail.com>",
+  "license": "MIT",
+  "description": "React and TypeScript example starter project",
+  "keywords": [
+    "typescript",
+    "react",
+    "starter"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@graphql-tools/merge": "8.3.2-alpha-9d6b1e75.0"
+  },
+  "devDependencies": {
+    "typescript": "4.7.x"
+  },
+  "scripts": {
+
+  }
+}
